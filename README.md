@@ -1,1 +1,2 @@
-# VAE_on_MNIST_with_TensorFlow
+# VAE on MNIST with TensorFlow
+
